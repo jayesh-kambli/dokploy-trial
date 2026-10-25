@@ -1,0 +1,13 @@
+{
+  "name": "dokploy-trial",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A tiny test app for trying Dokploy without host mode",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
